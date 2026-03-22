@@ -13,7 +13,7 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Simulations & Systems** | C++, C#, Julia, R, Python, LuaJIT, Love2D |
+| **Simulations & Systems** | C++, C#, Julia, R, Python, LuaJIT, Love2D, SQLite3, MySQL |
 | **AI & Data Science** | TensorFlow, NumPy, Pandas |
 | **Web & App Dev** | TypeScript, Next.js, JavaScript, Tailwind CSS |
 | **Mobile** | Flutter |

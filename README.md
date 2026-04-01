@@ -1,5 +1,5 @@
 # Zahin Tapadar
-17 · building things at the edge of code and math
+18 · building things at the edge of code and math
 
 ---
 
@@ -7,7 +7,7 @@
 I write software — mostly simulations, AI stuff, and web apps. I like when code does something you can actually see or measure, whether that's a physics model, a trained network, or just a clean UI.
 
 ### what I like
-Computational systems, low-level programming, and problems that sit at the intersection of math and engineering. Also: narrative games, classical literature, and anime.
+Machine Learning, Computational systems, low-level programming, and problems that sit at the intersection of math and engineering. Also: narrative games, classical literature, and anime.
 
 ### right now
 · Bear Notes Viewer · Arma 3 mission scripting · Les Misérables · Physics Simulation

@@ -23,6 +23,7 @@
   <a href="https://atlasmac.web.app/"><img src="assets/chip-atlas.svg" alt="ATLAS" /></a>
   <a href="https://zahintapadar.github.io/schwarzschild-lab/"><img src="assets/chip-schwarzschild-lab.svg" alt="Schwarzschild Lab" /></a>
   <a href="https://zahintapadar.github.io/wortraum/"><img src="assets/chip-wortraum.svg" alt="wortraum" /></a>
+  <a href="https://github.com/ZahinTapadar/lovebites-macos"><img src="assets/chip-dotfiles.svg" alt="dotfiles" /></a>
 </p>
 
 <p align="center">

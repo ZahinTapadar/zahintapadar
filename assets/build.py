@@ -38,7 +38,7 @@ FEATURED = [
     ('2026', 'wortraum', 'wordle solver, lua + c + wasm'),
 ]
 
-ARCHIVE = ['ADB App Manager', 'Razer Mouse Manager', 'BeautifyOllama', 'Tech For Life',
+ARCHIVE = ['LoveBites dotfiles', 'ADB App Manager', 'Razer Mouse Manager', 'BeautifyOllama', 'Tech For Life',
            'BTR GOV', 'Personify', 'Quize', 'WebGeny']
 
 STACK = [
@@ -59,7 +59,7 @@ POSTS = [
     ('23 oct 2026', 'Making a Wordle Solver That Actually Thinks'),
 ]
 
-CHIPS = ['portfolio', 'blog', 'linkedin', 'email', 'atlas', 'schwarzschild-lab', 'wortraum']
+CHIPS = ['portfolio', 'blog', 'linkedin', 'email', 'atlas', 'schwarzschild-lab', 'wortraum', 'dotfiles']
 
 # ---- helpers ---------------------------------------------------------------
 
